@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "HavaDurumuAI",
+    "slug": "HavaDurumuAI",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.havadurumuai.app",
+      "usesCleartextTraffic": true,
+      "permissions": ["INTERNET", "ACCESS_NETWORK_STATE"]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+   "extra": {
+  "API_KEY": "c312ec14dc9f5772eb0a439523fa445f",
+  "WEATHER_API_URL": "https://api.openweathermap.org/data/2.5"
+}
+
+  }
+}
