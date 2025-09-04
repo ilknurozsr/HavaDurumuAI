@@ -1,4 +1,4 @@
-Yapımında API ve içeriğnde yapay zeka yorumu kullandığım bir react native projesidir.
+Yapımında API ve içeriğinde yapay zeka yorumu kullandığım bir react native projesidir.
 
 
 
